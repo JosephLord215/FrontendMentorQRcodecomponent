@@ -26,8 +26,8 @@ I am using this challenge to learn how frontend mentor works.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Challage URL: [Challenge here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- My Solution URL: [My live solution here](https://josephlord215.github.io/FrontendMentorQRcodecomponent/)
 
 ## My process
 
@@ -38,7 +38,7 @@ I am using this challenge to learn how frontend mentor works.
 
 ### What I learned
 
-I learned how to create a card only using HTML and CSS. I also learned how to use media queries to resize that card.
+I learned how to create a card only using HTML and CSS. Also, I learned how to use media queries to resize that card.
 
 ### Useful resources
 
